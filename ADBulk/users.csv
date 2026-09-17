@@ -1,0 +1,41 @@
+FirstName,LastName,SamAccountName,Department,Title,Password,Group
+Tony,Stark,tstark,Engineering,Chief Technology Officer,SuperSecret123!,SG-Engineering
+Steve,Rogers,srogers,HR,HR Director,SuperSecret123!,SG-HR
+Natasha,Romanoff,nromanoff,IT,Information Security Manager,SuperSecret123!,SG-IT
+Bruce,Banner,bbanner,Engineering,Lead Research Scientist,SuperSecret123!,SG-Engineering
+Thor,Odinson,todinson,Sales,VP of Global Sales,SuperSecret123!,SG-Sales
+Peter,Parker,pparker,Marketing,Social Media Specialist,SuperSecret123!,SG-Marketing
+Clint,Barton,cbarton,IT,Network Administrator,SuperSecret123!,SG-IT
+Wanda,Maximoff,wmaximoff,HR,Talent Acquisition Lead,SuperSecret123!,SG-HR
+Vision,Synth,vsynth,IT,Systems Architect,SuperSecret123!,SG-IT
+Sam,Wilson,swilson,HR,Employee Relations Specialist,SuperSecret123!,SG-HR
+Bucky,Barnes,bbarnes,IT,IT Support Specialist,SuperSecret123!,SG-IT
+James,Rhodes,jrhodes,Engineering,Systems Engineer,SuperSecret123!,SG-Engineering
+Stephen,Strange,sstrange,Finance,Chief Financial Officer,SuperSecret123!,SG-Finance
+Carol,Danvers,cdanvers,Sales,Regional Sales Director,SuperSecret123!,SG-Sales
+T'Challa,Wakanda,twakanda,Finance,Senior Financial Analyst,SuperSecret123!,SG-Finance
+Shuri,Wakanda,swakanda,Engineering,Hardware Design Engineer,SuperSecret123!,SG-Engineering
+Scott,Lang,slang,Marketing,Field Marketing Coordinator,SuperSecret123!,SG-Marketing
+Hope,Van Dyne,hvandyne,Engineering,Quality Assurance Lead,SuperSecret123!,SG-Engineering
+Nick,Fury,nfury,IT,Chief Information Security Officer,SuperSecret123!,SG-IT
+Maria,Hill,mhill,IT,IT Operations Director,SuperSecret123!,SG-IT
+Phil,Coulson,pcoulson,HR,Onboarding Coordinator,SuperSecret123!,SG-HR
+Pepper,Potts,ppotts,Finance,Finance Director,SuperSecret123!,SG-Finance
+Happy,Hogan,hhogan,HR,Facilities and Safety Specialist,SuperSecret123!,SG-HR
+Matt,Murdock,mmurdock,Finance,Compliance & Risk Counsel,SuperSecret123!,SG-Finance
+Foggy,Nelson,fnelson,Finance,Contracts Manager,SuperSecret123!,SG-Finance
+Karen,Page,kpage,Marketing,Communications Manager,SuperSecret123!,SG-Marketing
+Jessica,Jones,jjones,IT,Security Auditor,SuperSecret123!,SG-IT
+Luke,Cage,lcage,HR,People Operations Specialist,SuperSecret123!,SG-HR
+Danny,Rand,drand,Finance,Investment Portfolio Analyst,SuperSecret123!,SG-Finance
+Frank,Castle,fcastle,IT,Infrastructure Specialist,SuperSecret123!,SG-IT
+Charles,Xavier,cxavier,HR,Chief People Officer,SuperSecret123!,SG-HR
+Erik,Lehnsherr,elehnsherr,Engineering,Principal Infrastructure Engineer,SuperSecret123!,SG-Engineering
+Jean,Grey,jgrey,Marketing,VP of Brand Marketing,SuperSecret123!,SG-Marketing
+Scott,Summers,ssummers,Sales,Sales Operations Manager,SuperSecret123!,SG-Sales
+Ororo,Munroe,omunroe,Marketing,Creative Director,SuperSecret123!,SG-Marketing
+Logan,Howlett,lhowlett,IT,Senior Systems Administrator,SuperSecret123!,SG-IT
+Hank,McCoy,hmccoy,Engineering,Principal Research Engineer,SuperSecret123!,SG-Engineering
+Bobby,Drake,bdrake,Sales,Inside Sales Representative,SuperSecret123!,SG-Sales
+Warren,Worthington,wworthington,Finance,Treasury Analyst,SuperSecret123!,SG-Finance
+Piotr,Rasputin,prasputin,Engineering,Manufacturing Systems Specialist,SuperSecret123!,SG-Engineering
