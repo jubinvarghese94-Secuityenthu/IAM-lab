@@ -201,7 +201,7 @@ Cloud-hosted Okta requires accessible public endpoints to deliver authentication
 
 ```powershell
 # 1. Clone the repository
-git clone [https://github.com/](https://github.com/)<YOUR_USERNAME>/marvel-ad-okta-lab.git
+git clone https://github.com/jubinvarghese94-Secuityenthu/IAM-lab.git
 cd marvel-ad-okta-lab
 
 # 2. Build the directory OU hierarchy and Security Groups
